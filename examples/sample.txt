@@ -1,0 +1,5 @@
+Hello world from Rust! 🦀
+Rust is a systems programming language.
+Привіт, світ! Rust чудовий. 🚀
+RUST handles memory safety without a garbage collector.
+rust and safety are key concepts 🛡️.
